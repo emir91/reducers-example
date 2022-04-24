@@ -1,5 +1,6 @@
+import Puzzle from "./Puzzle"
 function App() {
-  return <div>Reducers example</div>
+  return <Puzzle />
 }
 
 export default App
